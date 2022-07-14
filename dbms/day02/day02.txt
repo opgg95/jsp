@@ -1,9 +1,0 @@
-1. DBMS설치
- - Oracle 11g R2
- - Tibero
- - https://www.oracle.com/database/technologies/xe-prior-release-downloads.html
-
-2. Oracle 설치 확인
- - winkey + R + cmd
- - sqlplus
- - id / pw : system / 1234(설치시 세팅)
